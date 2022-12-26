@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://k1ddd.github.io/ToDoList-app/",
+  "homepage": "https://k1ddd.github.io/ToDoList-app/my-app",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
